@@ -27,6 +27,7 @@
     "react-dom": "^16.12.0",
     "react-redux": "^5.0.2",
     "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
     "redux": "^3.6.0",
     "redux-multi": "^0.1.12",
     "redux-promise": "^0.5.3",
